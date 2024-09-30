@@ -1,0 +1,16 @@
+Item ID,Product,SKU,Manufacturer,Stock Quantity,Restock Level,Price per Unit,Warehouse Location
+Item_1,Bryant Memorabilia,SKU-8975,Rawlings,827,119,172.93,WH-3
+Item_2,Brady Jersey,SKU-5284,Fanatics,740,124,55.49,WH-2
+Item_3,Brady Jersey,SKU-2177,Spalding,586,69,54.19,WH-4
+Item_4,Brady Jersey,SKU-1634,Adidas Originals,277,217,202.82,WH-2
+Item_5,Rodgers Football,SKU-9295,Wilson Sporting Goods,450,194,161.96,WH-4
+Item_6,Giannis Training Shoes,SKU-9410,Under Armour,503,162,224.9,WH-3
+Item_7,LeBron Sneakers,SKU-1438,Adidas Originals,648,65,180.48,WH-1
+Item_8,Curry Three-Pointer Basketball,SKU-5275,Nike Sports,688,175,274.44,WH-3
+Item_9,Wilson Volleyball,SKU-5253,Under Armour,432,179,190.18,WH-5
+Item_10,Rodgers Football,SKU-1179,New Era Cap,541,172,153.93,WH-5
+Item_11,Wilson Volleyball,SKU-8820,Rawlings,757,230,143,WH-4
+Item_12,LeBron Sneakers,SKU-7626,Puma Performance,820,186,176.74,WH-4
+Item_13,Curry Three-Pointer Basketball,SKU-8103,Reebok Classics,961,88,84.44,WH-3
+Item_14,Curry Three-Pointer Basketball,SKU-2384,Rawlings,543,230,85.11,WH-3
+Item_15,Giannis Training Shoes,SKU-5771,Rawlings,559,219,70.4,WH-5
